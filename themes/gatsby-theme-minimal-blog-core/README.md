@@ -1,3 +1,5 @@
+## 2-NOW fork version
+
 <p align="center">
   <a href="https://themes.lekoarts.de">
     <img alt="Gatsby Theme" src="https://img.lekoarts.de/gatsby/gatsby-themes-illustration.png" />

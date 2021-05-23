@@ -1,7 +1,7 @@
 {
-  "name": "@lekoarts/gatsby-theme-minimal-blog",
-  "version": "2.7.6",
-  "author": "LekoArts <hello@lekoarts.de>",
+  "name": "@2-NOW/gatsby-theme-minimal-blog",
+  "version": "1.0.0",
+  "author": "2-NOW",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "license": "MIT",
   "main": "index.js",
@@ -20,7 +20,7 @@
     "react-dom": "^16.9.0"
   },
   "dependencies": {
-    "@lekoarts/gatsby-theme-minimal-blog-core": "^2.7.6",
+    "@2-NOW/gatsby-theme-minimal-blog-core": "^2.7.6",
     "@loadable/component": "^5.14.1",
     "@theme-ui/color": "^0.3.5",
     "@theme-ui/components": "^0.3.5",
