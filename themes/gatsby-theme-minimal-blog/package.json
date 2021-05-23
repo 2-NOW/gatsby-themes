@@ -1,7 +1,7 @@
 {
-  "name": "@2-NOW/gatsby-theme-minimal-blog",
+  "name": "@2NOW/gatsby-theme-minimal-blog",
   "version": "1.0.0",
-  "author": "2-NOW",
+  "author": "2NOW",
   "description": "Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.",
   "license": "MIT",
   "main": "index.js",
